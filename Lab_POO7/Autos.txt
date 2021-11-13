@@ -1,0 +1,10 @@
+Ford FTR 54000 5 Adelante Derecha
+Porsche GTR 69500 6 Atras Derecha
+Toyota Supra 56000 7 Adelante Izquierda
+Mazda RX7 78000 7 Atras Izquierda
+Nissan Skyline 99000 8 Adelante Izquierda
+Toyota Corrolla 86000 9 Atras Izquierda
+Mazda MX5 74560 5 Adelante Derecha
+BMW M2 159000 4 Atras Derecha
+Ford Focus 69320 10 Adelante Izquierda
+Mercedes C63 94000 45 Atras Derecha
